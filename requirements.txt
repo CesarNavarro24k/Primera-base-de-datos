@@ -22,7 +22,6 @@ multidict==6.4.4
 propcache==0.3.1
 pypiwin32==223
 pyttsx3==2.98
-pywin32==310
 requests==2.32.3
 SQLAlchemy==2.0.41
 typing_extensions==4.14.0
